@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.aston.ac.uk	TRUE	/	FALSE	1999999999	SimpleSAMLSessionID	6f1a8bfdc651915a50c0246525edf431
+www.aston.ac.uk	TRUE	/	FALSE	1999999999	bookmarked_courses	%2C4614%2C4441%2C1069%2C4552%2C1064%2C4555%2C4581%2C4539%2C1055%2C4525%2C4524%2C4686%2C4671%2C4630%2C4816%2C4714
+.www.aston.ac.uk	TRUE	/	FALSE	1999999999	SSESSf2e9f5397b2482ced5f3ddcc8da2856b	LPkIk6XDcEJOSz-Wu-4YWWQFvmSz9GMpQmIG-W0XMjVfdME6
+

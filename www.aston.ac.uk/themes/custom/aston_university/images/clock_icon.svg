@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 13 13">
+  <g id="Clock_icon" data-name="Clock icon" transform="translate(-397 -626)">
+    <g id="Ellipse_14" data-name="Ellipse 14" transform="translate(397 626)" fill="#fff" stroke="#4d4f53" stroke-width="2">
+      <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+      <circle cx="6.5" cy="6.5" r="5.5" fill="none"/>
+    </g>
+    <path id="Path_96" data-name="Path 96" d="M1801.313-8413.437v5.016" transform="translate(-1397.576 9042.016)" fill="none" stroke="#4d4f53" stroke-width="1"/>
+    <path id="Path_97" data-name="Path 97" d="M0,0V3.558" transform="matrix(0.616, -0.788, 0.788, 0.616, 403.649, 633.216)" fill="none" stroke="#4d4f53" stroke-width="1"/>
+  </g>
+</svg>

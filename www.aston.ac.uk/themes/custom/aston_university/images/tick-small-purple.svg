@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3.96875mm"
+   height="2.9104166mm"
+   viewBox="0 0 3.96875 2.9104166"
+   version="1.1"
+   id="svg18202"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="tick-small-purple.svg">
+  <defs
+     id="defs18196" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="57.499998"
+     inkscape:cy="-191.64286"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="1912"
+     inkscape:window-y="176"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata18199">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(35.246279,-95.217411)">
+    <polygon
+       transform="matrix(0.26458333,0,0,0.26458333,-35.600821,-80.84692)"
+       style="clip-rule:evenodd;fill:#87008f;fill-rule:evenodd"
+       id="polygon50"
+       points="14.84,665.44 6.84,673.44 2.84,669.44 1.34,670.94 6.84,676.44 16.34,666.94 " />
+  </g>
+</svg>

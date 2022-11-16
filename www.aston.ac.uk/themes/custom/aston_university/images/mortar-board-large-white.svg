@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="11.639021mm"
+   height="8.5433998mm"
+   viewBox="0 0 11.639021 8.5433998"
+   version="1.1"
+   id="svg3179"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="mortar-board-large-white.svg">
+  <defs
+     id="defs3173" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="39.771329"
+     inkscape:cy="52.749832"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="1912"
+     inkscape:window-y="176"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3176">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(61.004034,-215.62116)">
+    <path
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       id="path10"
+       d="m -58.622784,219.58991 v 2.64583 h 0.0053 c 0.105833,0.36248 1.603375,0.85725 3.434291,0.85725 1.830917,0 3.325813,-0.49477 3.431646,-0.85725 h 0.0079 v -2.64583 h -0.206376 l -3.233208,1.32292 -3.233208,-1.32292 z m 7.450666,-0.3175 v 4.24127 c 0,0.34131 0.275167,0.65088 0.61648,0.65088 0.343958,0 0.619125,-0.30957 0.619125,-0.65088 v -4.74662 z m -9.831916,-1.27 5.820833,2.38125 5.818188,-2.38125 -5.818188,-2.38125 z" />
+  </g>
+</svg>

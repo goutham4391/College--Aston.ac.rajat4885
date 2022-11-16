@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6.3500028mm"
+   height="6.3473401mm"
+   viewBox="0 0 6.3500028 6.3473401"
+   version="1.1"
+   id="svg17636"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="looking-glass-large-grey.svg">
+  <defs
+     id="defs17630" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="-14.251988"
+     inkscape:cy="-59.276954"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="1912"
+     inkscape:window-y="176"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata17633">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-50.497619,-113.15372)">
+    <path
+       style="clip-rule:evenodd;fill:#4d4f53;fill-rule:evenodd;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       id="path6"
+       d="m 50.497619,115.74133 c 0,1.43139 1.158875,2.59027 2.590271,2.59027 0.500062,0 0.968375,-0.14288 1.36525,-0.38894 l 1.791229,1.5584 0.582083,-0.0185 0.02117,-0.58209 -1.561042,-1.79387 c 0.248709,-0.39688 0.388938,-0.86519 0.388938,-1.36525 0,-1.42875 -1.158875,-2.58763 -2.587625,-2.58763 -1.431396,0 -2.590271,1.15888 -2.590271,2.58763 z m 0.759354,0 c 0,-1.01071 0.817563,-1.83092 1.830917,-1.83092 1.010708,0 1.828271,0.82021 1.828271,1.83092 0,1.01071 -0.817563,1.83092 -1.828271,1.83092 -1.013354,0 -1.830917,-0.82021 -1.830917,-1.83092 z" />
+  </g>
+</svg>
